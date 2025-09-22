@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=007ACC&center=true&vCenter=true&width=800&lines=I+believe+there+is+no+magic+in+Computer+Science!;AI+Security+Researcher+%7C+C%2B%2B+Developer;Exploring+LLM+Alignment+%26+Jailbreak+Defense;Building+Cool+Security+Tools+with+Python+%26+C%2B%2B" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=007ACC&center=true&vCenter=true&width=800&lines=AI+Safety+%26%26+AI+Security;LLM+Alignment;LLM+Jailbreak" alt="Typing SVG">
 </p>
 
 ---
