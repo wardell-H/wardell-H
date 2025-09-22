@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Wardell</h1>
-<h3 align="center">💻 C++ Developer | 🔍 AI Security Researcher | 🌱 Python Learner</h3>
+<h3 align="center">🔍 AI Security Researcher 
 
 ---
 
