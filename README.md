@@ -2,13 +2,14 @@
 <h3 align="center">🔍 AI Security Researcher 
 
 ---
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=007ACC&center=true&vCenter=true&width=800&lines=I+believe+there+is+no+magic+in+Computer+Science!;AI+Security+Researcher+%7C+C%2B%2B+Developer;Exploring+LLM+Alignment+%26+Jailbreak+Defense;Building+Cool+Security+Tools+with+Python+%26+C%2B%2B" alt="Typing SVG">
+</p>
 ### 🚀 About Me
-- 🎓 **B.S. in Information Security** @ Tongji University  
-- 📚 Research direction: **AI Security (LLM Alignment & Jailbreak Defense), Software Vulnerability Detection & Automated Repair**  
-- 🔭 Currently working on **C++ backend, security tools & AI-driven security research**  
-- 🌱 Learning **Python** for data analysis and applied AI security  
-
+- 🎓 **B.S. in Information Security** @ [Tongji University](https://cs.tongji.edu.cn/index.htm)  
+- 📚 Research direction: **AI Security (LLM Alignment & Jailbreak Defense)**  
+- Email: hzq1915851440@gmail.com
+I believe there is no magic in the world of computer science!
 ---
 
 ### 🛠 Tech Stack
