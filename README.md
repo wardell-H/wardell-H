@@ -11,8 +11,9 @@
 
 ### 🚀 About Me
 - 🎓 **B.S. in Information Security** @ [Tongji University](https://cs.tongji.edu.cn/index.htm)  
+- 🎓 **M.S. Candidate (Master's Student)** @ [Tongji University](https://cs.tongji.edu.cn/index.htm)  
 - 📚 Research direction: **AI Security (LLM Alignment & Jailbreak Defense)**  
-- 📧 Email: hzq1915851440@gmail.com  
+- 📧 Email: [hzq1915851440@gmail.com](mailto:hzq1915851440@gmail.com)
 
 ---
 
@@ -25,7 +26,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)  
 
-**Security & AI Tools**  
+**AI Tools**  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch)  
 ![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square)  
 
